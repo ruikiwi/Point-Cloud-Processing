@@ -7,3 +7,4 @@ This file implements Principal Component Analysis (PCA) and Surface Normal Estim
 
 **Surface Normal Estimation**: Built a KD-Tree with open3d, and use the neighborhood points to define the surface. The surface normal vector is the least significant eigen vector of that region. 
 
+![image](https://github.com/user-attachments/assets/16910ca4-5df3-423f-9206-e3819d737820)
